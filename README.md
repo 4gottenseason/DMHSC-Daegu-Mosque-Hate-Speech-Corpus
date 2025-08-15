@@ -1,4 +1,4 @@
-# DMHSC-Daegu-Mosque-Hate-Speech-Corpus
+# DMHSC: Daegu Mosque Hate Speech Corpus
 대구 이슬람 사원 건축 논란과 관련된 혐오 담화를 수집·정제한 한국어 말뭉치입니다. 말뭉치언어학, 비판적 담화분석, 혐오 발화 탐지 연구를 위해 설계되었습니다.
 
 ## 📌 소개 (Introduction)
