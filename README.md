@@ -39,4 +39,5 @@
 
 📬 문의 (Contact)
 - Author: 이준
-- Email: [연락 이메일]
+- Email: leejun0624@yonsei.ac.kr
+
